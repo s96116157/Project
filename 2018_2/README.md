@@ -1,16 +1,10 @@
-# 自學與摸索時期
+# 天工開物時期
 ![MIT license](https://img.shields.io/badge/built%20with-Arduino-brightgreen.svg)</br>
 
-因為興趣而開始看書、看網路自己學習焊電路板時的一些練習作品</br>
+2018年進公司時所參與過的作品</br>
 ---
-- 解謎盒</br>
-<img src="https://github.com/s96116157/Project/blob/main/2018/Picture/First/001_001.gif?raw=true" width=30% height=30%></br>
-<img src="https://github.com/s96116157/Project/blob/main/2018/Picture/First/001_002.jpg?raw=true" width=30% height=30%></br>
-<img src="https://github.com/s96116157/Project/blob/main/2018/Picture/First/001_003.jpg?raw=true" width=30% height=30%></br>
-<img src="https://github.com/s96116157/Project/blob/main/2018/Picture/First/001_004.jpg?raw=true" width=30% height=30%></br>
----
-- 使用遙控器的紅外線控制 LED 燈環</br>
-<img src="https://github.com/s96116157/Project/blob/main/2018/Picture/First/002_001.gif?raw=true" width=30% height=30%></br>
----
-- 使用光敏電阻控制 LED 燈環</br>
-<img src="https://github.com/s96116157/Project/blob/main/2018/Picture/First/002_002.gif?raw=true" width=30% height=30%></br>
+### LED 色票</br>
+##### 這是可以查看 LED 燈 RGB 色碼的小工具，因為工作上有個案子會一直調顏色</br>
+##### 但每次都要在電腦裡面設定完參數之後才能看顏色是不是我們要的，所以花很多時間在調參數⋯</br>
+##### 所以我乾脆直接做一個小工具出來，這樣看顏色比較準確也比較方便</br>
+##### 但事實上這部份是可以直接用 GUI 來解決的，就不用做出實體⋯</br>
