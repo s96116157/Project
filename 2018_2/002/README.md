@@ -1,10 +1,8 @@
-# 天工開物時期
-![MIT license](https://img.shields.io/badge/built%20with-Arduino-brightgreen.svg)</br>
+# [台灣中油石油探索館](https://www.youtube.com/watch?v=ch5ESsE3I6s)
+### 煉製方程式</br>
+##### 展項「煉製方程式」主要負責 LED 燈光控制、配色和彈珠發射機構的機電整合部份</br>
+##### 第一次嘗試使用多台 Arduino 來做相互溝通
 
-2018年進公司時所參與過的作品</br>
----
-### LED 色票</br>
-##### 這是可以查看 LED 燈 RGB 色碼的小工具，因為工作上有個案子會一直調顏色</br>
-##### 但每次都要在電腦裡面設定完參數之後才能看顏色是不是我們要的，所以花很多時間在調參數⋯</br>
-##### 所以我乾脆直接做一個小工具出來，這樣看顏色比較準確也比較方便</br>
-##### 但事實上這部份是可以直接用 GUI 來解決的，就不用做出實體⋯</br>
+<img src="https://github.com/s96116157/Project/blob/main/2018_2/002/Picture/001.gif?raw=true" width=50% height=50%></br>
+<img src="https://github.com/s96116157/Project/blob/main/2018_2/002/Picture/003.jpg?raw=true" width=50% height=50%></br>
+<img src="https://github.com/s96116157/Project/blob/main/2018_2/002/Picture/004.jpg?raw=true" width=50% height=50%></br>
