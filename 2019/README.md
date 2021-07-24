@@ -1,10 +1,7 @@
-# 天工開物時期
-![MIT license](https://img.shields.io/badge/built%20with-Arduino-brightgreen.svg)</br>
-
-2018年進公司時所參與過的作品</br>
----
-### LED 色票</br>
-##### 這是可以查看 LED 燈 RGB 色碼的小工具，因為工作上有個案子會一直調顏色</br>
-##### 但每次都要在電腦裡面設定完參數之後才能看顏色是不是我們要的，所以花很多時間在調參數⋯</br>
-##### 所以我乾脆直接做一個小工具出來，這樣看顏色比較準確也比較方便</br>
-##### 但事實上這部份是可以直接用 GUI 來解決的，就不用做出實體⋯</br>
+# [國立科學工藝博物館「智慧穿戴暨智慧農業」](https://www3.nstm.gov.tw/smart1/smart2/work-details2.html)
+### 智慧穿戴</br>
+##### 展項「智慧穿戴」主要負責燈光控制與互動裝置機電整合部份</br>
+##### 第一次嘗試使用 Arduino 與 RaspberryPi 相互溝通
+##### 按下按鈕時螢幕（RaspberryPi）會播放對應的影片，然後旁邊的櫥窗（Arduino）會照亮對應的實體物件
+<img src="https://github.com/s96116157/Project/blob/main/2019/Picture/001.jpg?raw=true" width=100% height=100%></br>
+###### [圖片來源-國立科學工藝博物館](https://www3.nstm.gov.tw/smart1/smart2/work-details2.html)
