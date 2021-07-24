@@ -28,3 +28,11 @@
 - 國立台灣美術館「吳修銘：建築的進行式」- 收音裝置</br>
 ##### 使用 12組 ESP32 收音裝置，透過 Wifi 集中傳遞給主控的 ESP32，再把值傳遞給電腦做即時的動畫運算</br>
 <img src="https://github.com/s96116157/Project/blob/main/other/002.jpg?raw=true" height=300> <img src="https://github.com/s96116157/Project/blob/main/other/003.jpg?raw=true" height=300></br>
+
+- LINE ROBOT</br>
+##### 幫朋友寫的 LINE 占卜機器人 
+##### 使用 GoogleAppsScript 來撰寫，直接讀取 GoogleSheet 的資料
+##### 讓編輯者不用修改程式而是透過 GoogleSheet 來新增資料與圖片
+##### 內建選單功能則可以直接連到 IG 與 FB 粉絲頁
+
+<img src="https://github.com/s96116157/Project/blob/main/other/005.gif?raw=true" width=35% height=35%></br>
